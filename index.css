@@ -1,0 +1,80 @@
+body{
+    width: 100%;
+    background-image: url(./WhatsApp\ Image\ 2023-09-21\ at\ 8.14.10\ PM\ 1.jpeg);
+    background-repeat: no-repeat;
+    filter: brightness(8px);
+    background-size: cover;
+    
+}
+.menu-1{
+    
+    text-align:center;
+    padding-top: 150px;
+    
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    font-size: 15px;
+
+}
+.menu-2{
+    text-align:center;
+    padding-top: 150px;
+    
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    text-transform:capitalize;
+    
+}
+
+.menu-3{
+    text-align:center;
+    padding-top: 150px;
+    
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+}
+span{
+    color: rgb(255, 113, 160);
+}
+nav{
+    display: grid;
+    align-items: center;
+}
+#yogo{
+    display:grid;
+    justify-content: center;
+    align-items: center;
+    width: 130px;
+    text-align: center;
+    text-transform: uppercase;
+    background-color: rgb(255, 113, 160) ;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 20px;
+    
+}
+.nav-1{
+    font-family:'Times New Roman', Times, serif;
+    padding-top: 100px;
+    text-transform: capitalize;
+    
+}
+.nav-2{
+    text-transform:capitalize;
+    padding: 20px;
+    margin: 10px;
+    color: rgb(192, 194, 197);
+
+}
+.phone{
+    border-radius: 50px solid red;
+    width: 20px;
+}
+
+
+
+
+
